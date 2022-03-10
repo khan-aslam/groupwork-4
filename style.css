@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis&family=Montserrat:wght@700&family=Open+Sans&family=Playfair+Display:wght@400;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{;
+
+
+} 
+h3{
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+
+}
+p{
+
+    font-family: 'Montserrat', sans-serif;text-align: center;
+}
+
+
+
+.item{
+
+    display: block;
+}
+button{
+    background-color: #bf2222;width: 200px; height: 60px;position: relative;left: 130px;
+}
+button a{
+
+text-decoration: none;
+font-size: 20px;
+font-family: 'AlfaSlabOne';
+font-weight: 700;
+color: bisque;
+
+
+}
